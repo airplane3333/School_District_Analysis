@@ -1,24 +1,48 @@
-#Overview of the school district analysis: 
+# Project Name: School District Analysis
+---
+
+## Overview of the school district analysis: 
+---
 The analysis of the school distric is to how each school size, school type, and sending per student compares to 
 students math, reading and overall sorces.  After the initial analysis was complete a problem was discovered with the 
-Thomas High School 9th graders and were removed from the analysis. 
+Thomas High School 9th graders and were removed from the analysis.
 
-##Results: 
+![Thomas High School 9th Graders Removed[ (Thomas_9thGrade_removed.png)
+ 
+
+## Results: 
+---
 After removing the Thomas High School 9th Graders, the distric summary only changed slightly by a ~ thenth of a percent, however the overall 
 percentaged passing was slightly lower for the district
-![Distric Analysis]["Resources\district_analysis_summary.png"]
+
+![Distric Analysis]("Resources\district_analysis_summary.png")
+---
 
 The analysis for Thomas High School changed significantly when the 9th graders were removed.  Below you can see that
-that average reading and math scores are not changed much however the percent passing and overall percent are much lower
-![Thomas High School Summary][school_summary.png]
+that average reading and math scores are not changed much, however the percent passing and overall percent are much higher for the 10-12th
+grades.
+
+![Thomas High School Summary](school_summary.png)
+---
   
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance 
-relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
-#Summary: 
+Thomas High School with the removal of the 9th grade math and reading score now ranks in the top 5 schools within the district
+
+[Top Performing Schools](top_performing_schools.png) 
+---
+By replacing the math and reading scores for Thomas High School 9th Graders.
+
+![Per Student Spending](per_student_spending.png)
+---
+
+Scores for school size and type:
+
+![School Size](school_size.png)
+---
+Scores for school type (Charter or Disticts):
+
+![School Type](school_type.png)
+---
+
+## Summary: 
 Summarize four changes in the updated school district analysis after reading and math scores for the 
 ninth grade at Thomas High School have been replaced with NaNs.
