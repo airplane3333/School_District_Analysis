@@ -22,7 +22,7 @@ The analysis for Thomas High School changed significantly when the 9th graders w
 that average reading and math scores are not changed much, however the percent passing and overall percent are much higher for the 10-12th
 grades.
 
-![Thomas High School Summary](/Resources/school_summary.PNG)
+![Thomas High School Summary](/Resources/school_analysis.PNG)
 ---
   
 Thomas High School with the removal of the 9th grade math and reading score now ranks in the top 5 schools within the district
